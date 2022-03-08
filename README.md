@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhtrivedi" alt="kaustubhtrivedi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@kaustubhtrivedi6" target="blank"><img src="https://img.shields.io/twitter/follow/@kaustubhtrivedi6?logo=twitter&style=for-the-badge" alt="@kaustubhtrivedi6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@KaustubhTrivedi6" target="blank"><img src="https://img.shields.io/twitter/follow/@kaustubhtrivedi6?logo=twitter&style=for-the-badge" alt="@kaustubhtrivedi6" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS and RESTapis**
 
