@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhtrivedi" alt="kaustubhtrivedi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@KaustubhTrivedi6" target="blank"><img src="https://img.shields.io/twitter/follow/@kaustubhtrivedi6?logo=twitter&style=for-the-badge" alt="@kaustubhtrivedi6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@kaustubhtrived6" target="blank"><img src="https://img.shields.io/twitter/follow/@kaustubhtrived6?logo=twitter&style=for-the-badge" alt="@kaustubhtrived6" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJS and RESTapis**
 
@@ -13,13 +11,19 @@
 
 - 📫 How to reach me **kaus12tri@gmail.com**
 
+- 📄 My Resume [https://rxresu.me/r/gz8kpd](https://rxresu.me/r/gz8kpd)
+
+- ⚡ Fun fact **I love Gaming**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@kaustubhtrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@kaustubhtrivedi" height="30" width="40" /></a>
-<a href="https://twitter.com/@kaustubhtrivedi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaustubhtrivedi6" height="30" width="40" /></a>
+<a href="https://twitter.com/@kaustubhtrived6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaustubhtrived6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-trivedi-459399158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-trivedi-459399158/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kaus12tri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kaus12tri" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kaustubh.trived" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kaustubh.trived" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@kaustubhtrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kaustubhtrivedi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kasu12tri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kasu12tri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
