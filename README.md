@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@kaustubhtrived6" target="blank"><img src="https://img.shields.io/twitter/follow/@kaustubhtrived6?logo=twitter&style=for-the-badge" alt="@kaustubhtrived6" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS and RESTapis**
 
 - 👯 I’m looking to collaborate on **ReactJS and framework technologies of the same**
