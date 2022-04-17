@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJS and RESTapis**
+- 🌱 I’m currently learning **React-Redux**
 
 - 👯 I’m looking to collaborate on **ReactJS and framework technologies of the same**
 
