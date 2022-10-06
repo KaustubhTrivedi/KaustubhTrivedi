@@ -11,7 +11,7 @@
 
 <!-- - 📄 My Resume [https://rxresu.me/r/gz8kpd](https://rxresu.me/r/gz8kpd/?target=_blank) -->
 
-- 📄 <a link="https://rxresu.me/kaus12tri/kaustubh-trivedi">My Resume</a>
+- 📄 [My Resume](https://rxresu.me/kaus12tri/kaustubh-trivedi)
 
 - ⚡ Fun fact **I love Gaming**
 
