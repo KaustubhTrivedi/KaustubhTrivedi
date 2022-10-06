@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaus12tri@gmail.com**
 
-- 📄 My Resume [https://rxresu.me/r/gz8kpd](https://rxresu.me/r/gz8kpd)
+- 📄 My Resume [https://rxresu.me/r/gz8kpd](https://rxresu.me/r/gz8kpd){:target="_blank"}
 
 - ⚡ Fun fact **I love Gaming**
 
