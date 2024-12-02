@@ -37,7 +37,7 @@ This project is my take on creating a **self-hosted home server** to manage:
 ## 💻 Technologies I Love
 
 - **Frontend**: React, TailwindCSS
-- **Programming Languages**: TypeScript, Python
+- **Programming Languages**: TypeScript, Python, Java
 - **Backend**: Node.js, Django, Spring Boot
 - **AI/ML**: TensorFlow, OpenAI APIs, Hugging Face
 - **DevOps**: Docker, Kubernetes, CI/CD pipelines
