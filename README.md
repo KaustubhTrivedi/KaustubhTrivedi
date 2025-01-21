@@ -44,7 +44,7 @@ This project is my take on creating a **self-hosted home server** to manage:
 
 ---
 
-## 🌟 Let's Connect!
+## Let's Connect!
 
 I'm always looking to collaborate on exciting projects or discuss innovative ideas. Feel free to check out my repositories and drop a star ⭐️ if you like what you see!
 
