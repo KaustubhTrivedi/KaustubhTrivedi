@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaustubh!
 
-🚀 Software Architect & Developer | Full-Stack Enthusiast | AI & Automation Explorer
+Software Architect & Developer | Full-Stack Enthusiast | AI & Automation Explorer
 
 Welcome to my GitHub! I thrive on creating scalable, impactful software solutions. Whether it's an AI-driven app or robust backend infrastructure, my goal is to blend creativity with technology to solve real-world problems.
 
