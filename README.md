@@ -56,13 +56,19 @@ I'm always looking to collaborate on exciting projects or discuss innovative ide
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://dev.to/@kaustubhtrivedi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@kaustubhtrivedi" height="30" width="40" /></a> <a href="https://twitter.com/@kaustubhtrived6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaustubhtrived6" height="30" width="40" /></a> <a href="https://linkedin.com/in/kaustubh-trivedi-459399158" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh-trivedi" height="30" width="40" /></a> <a href="https://codesandbox.com/kaus12tri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kaus12tri" height="30" width="40" /></a> <a href="https://www.facebook.com/kaustubh.trived" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaustubh.trived" height="30" width="40" /></a> <a href="https://www.hackerrank.com/@kaustubhtrivedi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaustubhtrivedi" height="30" width="40" /></a> <a href="https://www.leetcode.com/kasu12tri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kasu12tri" height="30" width="40" /></a> </p>
 
+
+## My Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaus12tri?theme=catppuccinMocha&font=Play&ext=activity)
+
+
 ## My Contribution Streak
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=KaustubhTrivedi&show_icons=true&theme=bear&">
  
   <a href="https://github.com/kaustubhtrivedi/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhtrivedi&theme=bear&hide_border=true&"/>
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhtrivedi&theme=bear&hide_border=true&"/> -->
   </a>
  
  </p>
+
