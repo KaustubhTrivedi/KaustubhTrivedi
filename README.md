@@ -20,32 +20,8 @@
 
 <div align="center">
 
-### 🚀 [Bounce Mission Control](https://github.com/kaustubhtrivedi/bounce-mission-control)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-**Full-Stack Space Exploration App | NASA API Integration**
-
-A comprehensive web application that brings the wonders of space to your screen! Explore NASA's vast database with an intuitive, modern interface.
-
-#### 🌟 Key Features:
-- 🖼️ **APOD Viewer**: Daily astronomy pictures with detailed explanations
-- 🔴 **Mars Rover Explorer**: Browse Curiosity rover photos by Martian day
-- 📱 **Responsive Design**: Beautiful UI that works on all devices
-- 🔒 **Secure Architecture**: API keys protected on backend
-- ⚡ **Performance Optimized**: Fast loading with error handling
-
-#### 🏗️ Architecture Highlights:
-- **Frontend**: React + TypeScript + TanStack Router + Tailwind CSS
-- **Backend**: Node.js + Express.js proxy server
-- **CI/CD**: Automated GitHub Actions workflows
-- **Security**: Environment-based API key management
-
----
-
-### 🧠 [Magpie - AI Task Automation](https://github.com/2024-CMPU9010-GROUP-3/magpie)
+### 🧠 [Magpie - Services at a Glance](https://github.com/2024-CMPU9010-GROUP-3/magpie)
 [![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)](https://github.com/2024-CMPU9010-GROUP-3/magpie)
 [![Team Project](https://img.shields.io/badge/Team-Collaboration-4ECDC4?style=flat-square)](https://github.com/2024-CMPU9010-GROUP-3/magpie)
 
