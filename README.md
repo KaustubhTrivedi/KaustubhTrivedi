@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Kaustubh+Trivedi+%F0%9F%91%8B;Software+Architect+%26+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Kaustubh+Trivedi+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time!)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=kaustubhtrivedi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/KaustubhTrivedi)
-[![GitHub followers](https://img.shields.io/github/followers/kaustubhtrivedi?label=Followers&style=social)](https://github.com/KaustubhTrivedi)
 
 &nbsp;
 
